@@ -6,6 +6,7 @@ Since I bought a measly 0.3 shares of TSLA on November 9 2023, I got more intrig
 
 This Shiny App is an interactive tool designed to provide an in-depth analysis of Tesla stock data. This app allows users to visualize various aspects of Tesla’s stock performance, including open prices, close prices, volumes traded, ranges of prices, and frequencies by day of the week to help visualize if any trends exist/overlap. The tool is built to offer real-time data interaction, customizable visualizations, and the ability to display descriptive statistics.
 
+The live Shiny app can be accessed here: https://jasonlu.shinyapps.io/teslaapp/
 ## Features
 
 - **User-Friendly Interface**: Intuitive interface designed for easy navigation and data selection.
